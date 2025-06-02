@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00cfff&height=200&section=header&text=Louis%20LOVES%20Coding&fontSize=50&fontAlignY=40&desc=Code%20Artist%20%7C%20Python%20Alchemist%20%7C%20Rust%20Adventurer&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00cfff&height=200&section=header&text=Louis%20LOVES%20Coding&fontSize=50&fontAlignY=40&desc=Code%20Artist%20%" />
 </p>
 
 <p align="center">
