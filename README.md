@@ -31,7 +31,7 @@
 ## 🧰 Toolbox of Choice
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,rust,react,git,github,linux,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,rust,react,git,github,linux,vscode" />
 </p>
 
 ---
