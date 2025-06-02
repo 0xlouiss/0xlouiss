@@ -11,8 +11,8 @@
 
 ## 🧠 About Me
 
-🐍 **Python** | First language 
-🦀 **Rust** | It’s hard. I love it.  
+🐍 **Python** | First language \n
+🦀 **Rust** | It’s hard. I love it.  \n
 📚 **Forever Student** | Docs are my bedtime stories
 
 ---
