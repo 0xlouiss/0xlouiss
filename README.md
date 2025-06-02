@@ -36,16 +36,6 @@
 
 ---
 
-## 🌟 Showcase: Featured Project
-
-### 🤖 My Telegram Bot
-
-*but is still private)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/dxUP5zLGsBWWi/giphy.gif" width="320"/>
-</p>
-
 ---
 
 ## 📈 Activity Graph
@@ -56,24 +46,9 @@
 
 ---
 
-## 🎵 Now Playing
-
-<p align="center">
-  <img src="https://spotify-now-playing-louis.vercel.app/api/spotify" width="380" />
-</p>
-
----
-
 ## 🧪 Fun Dev Facts
 
 - 🧩 My best ideas happen after 1am
----
-
-## 💬 My Philosophy
-
-> _“Write the code you want to read at 2AM.”_  
-> _“Each bug teaches you something. Even if it’s just humility.”_
-
 ---
 
 ## 🌠 Thanks for Visiting!
