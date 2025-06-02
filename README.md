@@ -11,12 +11,9 @@
 
 ## 🧠 About Me
 
-> _"Code isn’t just instructions—it’s expression, adventure, and problem-solving magic."_  
-
-🌟 **Creative Technologist** | I turn ideas into interactive code  
-🐍 **Python Magician** | From automation to APIs to AI  
-🌐 **Web Dev in Progress** | Exploring frontend and backend realms  
-🦀 **Rust Warrior** | It’s hard. I love it. That’s the deal.  
+🌟 **Creative Technologist** | 
+🐍 **Python ** | 
+🦀 **Rust** | It’s hard. I love it.  
 📚 **Forever Student** | Docs are my bedtime stories
 
 ---
