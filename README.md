@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00cfff&height=200&section=header&text=Louis%20LOVES%20Coding!&fontSize=50&fontAlignY=40&desc=Code%20Artist%20%7C%20Python%20Alchemist%20%7C%20Rust%20Adventurer&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00cfff&height=200&section=header&text=Louis%20LOVES%20Coding&fontSize=50&fontAlignY=40&desc=Code%20Artist%20%7C%20Python%20Alchemist%20%7C%20Rust%20Adventurer&descAlignY=65&descAlign=50" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00CFFF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Louis+%F0%9F%91%8B;Dev%2C+Bot+Builder%2C+Explorer+%F0%9F%9A%80;I+code+with+curiosity+%F0%9F%94%8D;I+craft+tools+with+Python+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Rust+is+my+chaotic+good+side+%F0%9F%A6%80;Bots%2C+web+apps%2C+madness+%E2%9C%94%EF%B8%8F;Let's+build+something+amazing!+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00CFFF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Louis;Student%2C+Explorer;I+code+with+curiosity;Rust+is+HARD+%F0%9F%A6%80;Let's+build+something+amazing!+%F0%9F%92%BB" />
 </p>
 
 ---
