@@ -12,6 +12,7 @@
 ## 🧠 About Me
 
 - **student**
+- **self-learned**
 
 ---
 
