@@ -12,7 +12,7 @@
 ## 🧠 About Me
 
 🌟 **Creative Technologist** | 
-🐍 **Python ** | 
+🐍 **Python** | 
 🦀 **Rust** | It’s hard. I love it.  
 📚 **Forever Student** | Docs are my bedtime stories
 
