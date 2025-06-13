@@ -31,19 +31,12 @@
 
 ---
 
----
-
 ## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Louis-LOVES-Coding&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
-## 🧪 Fun Dev Facts
-
-- 🧩 My best ideas happen after 1am
 ---
 
 ## 🌠 Thanks for Visiting!
