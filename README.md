@@ -1,37 +1,37 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00cfff&height=200&section=header&text=Louis%20LOVES%20Coding&fontSize=50&fontAlignY=40&desc=Code%20Artist%20%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00cfff&height=200&section=header&text=Louis%20LOVES%20Coding&fontSize=50&fontAlignY=40" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00CFFF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Louis;Student%2C+Explorer;I+code+with+curiosity;Rust+is+HARD+%F0%9F%A6%80;Let's+build+something+amazing!+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00CFFF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Louis;Student;I+code+with+curiosity;Rust+is+HARD+%F0%9F%A6%80;Let's+build+something+amazing!+%F0%9F%92%BB" />
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - **student**
 - **self-learned**
 
 ---
 
-## 🚧 What I’m Up To
+## What I’m Up To
 
 - ⚙️ Automating life with Python scripts
 - 🛠️ Diving deeper into Rust projects
 - 🌐 Exploring full-stack dev tools (Next.js, Node, SQL)
 ---
 
-## 🧰 Toolbox of Choice
+## Toolbox of Choice
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,rust,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,rust,git,github,vscode" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Louis-LOVES-Coding&theme=tokyo-night&hide_border=true" />
