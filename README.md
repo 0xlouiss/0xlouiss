@@ -36,8 +36,28 @@ I'm a self-taught student developer passionate about creating efficient and inno
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xlouiss&theme=tokyo-night&hide_border=true" />
 </p>
 
+## GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xlouiss&show_icons=true&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xlouiss&layout=compact&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=0xlouiss&theme=tokyo-night&no-frame=true&no-bg=false&margin-w=4" />
+</p>
+
+## Coding Time (WakaTime)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=0xlouiss&theme=tokyo-night&hide_border=true" />
+</p>
+
 ---
+
+## Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0xlouiss&style=flat-square&color=00cfff" alt="Profile Views"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0xlouiss&count_bg=%2300CFFF&title_bg=%23007AD4&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false" alt="Hits"/>
 </p>
