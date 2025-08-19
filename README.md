@@ -1,47 +1,42 @@
+# Louis LOVES Coding
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00cfff&height=200&section=header&text=Louis%20LOVES%20Coding&fontSize=50&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00cfff&height=150&section=header&text=Louis%20LOVES%20Coding&fontSize=40&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00CFFF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Louis;Student;I+code+with+curiosity;Rust+is+HARD+%F0%9F%A6%80;Let's+build+something+amazing!+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Louis;Student+Developer;I+code+with+curiosity;Rust+is+HARD;Let's+build+something+amazing!" />
 </p>
 
 ---
 
 ## About Me
 
-- **student**
-- **self-learned**
+I'm a self-taught student developer passionate about creating efficient and innovative solutions. I love exploring new technologies and building projects that make a difference.
 
----
+- **Status**: Student Developer
+- **Learning Style**: Self-taught
+- **Focus**: Full-stack development and automation
 
-## What I’m Up To
+## Current Projects
 
-- ⚙️ Automating life with Python scripts
-- 🛠️ Diving deeper into Rust projects
-- 🌐 Exploring full-stack dev tools (Next.js, Node, SQL)
----
+- **Python Automation**: Building scripts to streamline daily tasks
+- **Rust Development**: Exploring systems programming and performance optimization
+- **Full-Stack Web**: Working with Next.js, Node.js, and SQL databases
 
-## Toolbox of Choice
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,rust,git,github,vscode" />
 </p>
 
----
-
-## Activity Graph
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Louis-LOVES-Coding&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
-
-## 🌠 Thanks for Visiting!
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Louis-LOVES-Coding&style=flat-square&color=00cfff" alt="Profile Views"/>
