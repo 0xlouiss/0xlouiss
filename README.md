@@ -1,7 +1,7 @@
-# Louis LOVES Coding
+# Louis (0xlouiss)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00cfff&height=150&section=header&text=Louis%20LOVES%20Coding&fontSize=40&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00cfff&height=150&section=header&text=Louis%20(0xlouiss)&fontSize=40&fontAlignY=35" />
 </p>
 
 <p align="center">
@@ -33,11 +33,11 @@ I'm a self-taught student developer passionate about creating efficient and inno
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Louis-LOVES-Coding&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xlouiss&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Louis-LOVES-Coding&style=flat-square&color=00cfff" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=0xlouiss&style=flat-square&color=00cfff" alt="Profile Views"/>
 </p>
