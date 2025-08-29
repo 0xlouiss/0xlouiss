@@ -4,10 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00cfff&height=150&section=header&text=Louis%20(0xlouiss)&fontSize=40&fontAlignY=35" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Louis;Student+Developer;I+code+with+curiosity;Rust+is+HARD;Let's+build+something+amazing!" />
-</p>
-
 ---
 
 ## About Me
