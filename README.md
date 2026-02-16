@@ -12,13 +12,7 @@ I'm a self-taught student developer passionate about creating efficient and inno
 
 - **Status**: Student Developer
 - **Learning Style**: Self-taught
-- **Focus**: Full-stack development and automation
 
-## Current Projects
-
-- **Python Automation**: Building scripts to streamline daily tasks
-- **Rust Development**: Exploring systems programming and performance optimization
-- **Full-Stack Web**: Working with Next.js, Node.js, and SQL databases
 
 ## Tech Stack
 
