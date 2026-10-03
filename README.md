@@ -6,7 +6,7 @@
 
 I'm a self-taught student developer passionate about creating efficient and innovative solutions. I love exploring new technologies and building projects that make a difference.
 
-- **Status**: Mechanical Engineer
+- **Status**: Mechanical Student
 - **Learning Style**: Self-taught
 
 
