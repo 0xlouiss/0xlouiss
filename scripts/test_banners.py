@@ -25,7 +25,7 @@ class ProfileBanners(unittest.TestCase):
                     self.assertTrue(root.find(f".//*[@id='{label}']").text)
                 self.assertEqual(root.get("aria-labelledby"), "title description")
                 text = " ".join(root.itertext())
-                for fact in ("Louis", "0xlouiss", "Student Developer", "Self-taught", "Python", "JavaScript", "Rust", "GitHub", "VS Code"):
+                for fact in ("Louis", "0xlouiss", "Mechanical Student", "Self-taught", "C++", "Python", "Rust", "Linux", "Vim", "Raspberry Pi", "GitHub"):
                     self.assertIn(fact, text)
                 for element in root.iter():
                     self.assertNotIn(element.tag, [SVG + t for t in ("script", "foreignObject", "image", "animate", "animateTransform", "animateMotion", "set")])
@@ -83,7 +83,10 @@ class ProfileBanners(unittest.TestCase):
             self.assertIn(f'media="(prefers-color-scheme: {theme})" srcset="assets/profile-{theme}.svg"', readme)
         self.assertIn('src="assets/profile-light.svg"', readme)
         self.assertIn('alt="Louis (@0xlouiss)', readme)
-        for heading in ("About Me", "Tech Stack", "GitHub Activity", "Profile Views"):
+        self.assertIn("**Status**: Mechanical Student", readme)
+        self.assertIn("github-contribution-grid-snake.svg", readme)
+        self.assertIn("cpp,python,linux,vim,raspberrypi,rust,git", readme)
+        for heading in ("Tech Stack", "GitHub Activity", "Profile Views"):
             self.assertIn("## " + heading, readme)
 
 
