@@ -1,7 +1,11 @@
 # Louis (0xlouiss)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00cfff&height=150&section=header&text=Louis%20(0xlouiss)&fontSize=40&fontAlignY=35" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg" />
+    <img src="assets/profile-light.svg" width="100%" alt="Louis (@0xlouiss), self-taught student developer. Python, JavaScript, Rust; Git, GitHub and VS Code. ASCII portrait of my GitHub avatar, a cat beside a laptop, with cyberpunk animation. Public and private repository counts; authored commits, PRs and issues from the last 12 months. Snapshot: 2026-10-22." />
+  </picture>
 </p>
 
 ---
