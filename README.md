@@ -1,8 +1,3 @@
-
-<h1 align='center'>
-  Hi there 👋 I'm Louis 👨‍💻
-</h1>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg" />
