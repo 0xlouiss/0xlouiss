@@ -6,6 +6,17 @@
   </picture>
 </p>
 
+<p align="center">
+  <a href="https://ascii.rest/alpine-dawn/">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/alpine-dawn-still.png" />
+      <img src="assets/alpine-dawn.gif" width="100%" alt="Alpine dawn: snowy peaks catching the first light above a misty mountain lake, rendered in animated ASCII art." />
+    </picture>
+  </a>
+  <br />
+  <sub>Alpine dawn by <a href="https://ascii.rest/">ascii.rest</a></sub>
+</p>
+
 
 I'm a self-taught student developer passionate about creating efficient and innovative solutions. I love exploring new technologies and building projects that make a difference.
 

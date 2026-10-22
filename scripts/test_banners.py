@@ -89,6 +89,22 @@ class ProfileBanners(unittest.TestCase):
         for heading in ("Tech Stack", "GitHub Activity", "Profile Views"):
             self.assertIn("## " + heading, readme)
 
+    def test_alpine_dawn_github_embed(self):
+        gif = (ROOT / "assets/alpine-dawn.gif").read_bytes()
+        self.assertEqual(gif[:6], b"GIF89a")
+        self.assertEqual(int.from_bytes(gif[6:8], "little"), 1280)
+        self.assertEqual(int.from_bytes(gif[8:10], "little"), 640)
+        still = (ROOT / "assets/alpine-dawn-still.png").read_bytes()
+        self.assertEqual(still[:8], b"\x89PNG\r\n\x1a\n")
+        self.assertEqual(int.from_bytes(still[16:20], "big"), 1280)
+        self.assertEqual(int.from_bytes(still[20:24], "big"), 640)
+        readme = (ROOT / "README.md").read_text(encoding="utf-8")
+        self.assertIn('src="assets/alpine-dawn.gif"', readme)
+        self.assertIn('media="(prefers-reduced-motion: reduce)" srcset="assets/alpine-dawn-still.png"', readme)
+        self.assertNotIn("<script", readme)
+        self.assertNotIn("<ascii-art", readme)
+        self.assertIn("Copyright (c) 2026 bas3line", (ROOT / "assets/ascii-rest-LICENSE.txt").read_text(encoding="utf-8"))
+
 
 if __name__ == "__main__":
     unittest.main()
