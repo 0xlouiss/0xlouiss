@@ -1,8 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg" />
-    <img src="assets/profile-light.svg" width="100%" alt="Louis (@0xlouiss), self-taught mechanical student and developer. C++, Python, Rust; Linux, Vim, Raspberry Pi and Git. ASCII portrait of my GitHub avatar, a cat beside a laptop, with cyberpunk animation. Public and private repository counts; authored commits, PRs and issues from the last 12 months. Snapshot: 2026-10-22." />
+    <img src="assets/profile-dark.svg" width="100%" alt="Louis (@0xlouiss), self-taught mechanical student and developer. C++, Python, Rust; Linux, Vim, Raspberry Pi and Git. ASCII portrait of my GitHub avatar, a cat beside a laptop, with cyberpunk animation. Public and private repository counts; authored commits, PRs and issues from the last 12 months. Snapshot: 2026-10-22." />
   </picture>
 </p>
 
